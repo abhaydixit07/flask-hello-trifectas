@@ -91,7 +91,7 @@ def check(word_given, word_recieved, check_for):
             else:
                  return 75
         else:
-            # print('dasd')
+            
             return 0
 
 
